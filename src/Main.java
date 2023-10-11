@@ -15,7 +15,7 @@ do
 switch (opcao);
         case 1:
             int idadeLivro;
-
+ init
 
 
 
